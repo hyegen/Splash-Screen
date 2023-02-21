@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.exe.config
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.exe
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.pdb
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.frmSplashScreen.resources
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.exe
+C:\Users\Administrator\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.pdb
